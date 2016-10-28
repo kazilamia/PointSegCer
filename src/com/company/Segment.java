@@ -36,6 +36,6 @@ public class Segment {
 
     }
     public Segment imageSegment(){
-        return new Segment(this.A.imagePoint(),this.B.imagePoint());
+        return new Segment(this.A.SymPoint(),this.B.SymPoint());
     }
 }
