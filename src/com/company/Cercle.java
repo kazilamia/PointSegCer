@@ -42,6 +42,6 @@ public class Cercle {
 
     }
     public Cercle sym(){
-        return new Cercle(C.imagePoint(),R);
+        return new Cercle(C.SymPoint(),R);
     }
 }
