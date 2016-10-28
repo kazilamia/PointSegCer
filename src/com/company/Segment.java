@@ -35,7 +35,7 @@ public class Segment {
 
 
     }
-    public Segment imageSegment(){
+    public Segment SymSegment(){
         return new Segment(this.A.SymPoint(),this.B.SymPoint());
     }
 }
