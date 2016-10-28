@@ -38,7 +38,7 @@ public class Point {
     public void setY(double y) {
         this.y = y;
     }
-    public Point imagePoint(){
+    public Point SymPoint(){
         return new Point(-x,y);
 
     }
