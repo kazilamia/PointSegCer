@@ -35,6 +35,7 @@ public class Cercle {
     }
     public double arr(double a,double b){
         return (double)((int)(a*Math.pow(10,b)+5))/Math.pow(10,b);// elle fait quoi cette fonction !,,
+            // c'est une autre methode qui permet de calculer le perimetre d'un cercle, elle est utilsée en mecanique 
 
     }
     public double per(){
