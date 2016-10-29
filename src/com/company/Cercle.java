@@ -34,7 +34,7 @@ public class Cercle {
         R = r;
     }
     public double arr(double a,double b){
-        return (double)((int)(a*Math.pow(10,b)+5))/Math.pow(10,b);
+        return (double)((int)(a*Math.pow(10,b)+5))/Math.pow(10,b);// elle fait quoi cette fonction !,,
 
     }
     public double per(){
